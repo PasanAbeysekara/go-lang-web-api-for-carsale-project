@@ -14,12 +14,6 @@ If you like this repo or found it helpful, please give it a star. Thanks!
 
 ## How to run
 
-### Docker start
-
-```
-docker compose -f "docker/docker-compose.yml" up -d --build
-```
-
 #### Web API
 
 ##### Run local manually [http://localhost:5005](http://localhost:5005)
